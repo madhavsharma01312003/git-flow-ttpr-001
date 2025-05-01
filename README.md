@@ -265,7 +265,7 @@ Now you have:
   * Resolved merge conflicts
   * Pushed a local branch to a remote repository
 * Third Section
-  * Created a remote branch and commited changes to it
+  * Created a remote branch and committed changes to it
   * Fetched the remote branch
   * Added changes to this fetched branch locally
   * Merged the fetched branch into master
